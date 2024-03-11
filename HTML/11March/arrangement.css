@@ -1,0 +1,23 @@
+.container{
+    width: 80vw;
+    height: 50vh;
+    margin: auto;
+    margin-top: 50px;
+    box-sizing: border-box;
+    padding: 20px 10px 20px 30px;
+}
+*{
+    margin:0;
+    padding: 0;
+
+}
+/* .content2{
+    text-indent: 10%;
+} */
+.container2{
+    width: 200vw;
+    height:20vh;
+    margin: auto;
+    
+    background-size:contain ;
+}
